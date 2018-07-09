@@ -1,2 +1,4 @@
 data/schedules.json
 /lib/data/schedules.json
+logs/*
+/lib/logs/*
